@@ -1,11 +1,12 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-### DATE:26-03-25                                                                       
-### REGISTER NUMBER : 212222060307
-### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 1 with Straightforward Prompts, Tabular Format Prompting and Preceding Question Prompting  
+# DATE:26-03-25                                                                       
+#  REGISTER NUMBER : 212222060307
+# Aim: 
+To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 1 with Straightforward Prompts, Tabular Format Prompting and Preceding Question Prompting  
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
+# Procedure:
+
 1.	Define the Scenario and Use Case:
 Scenario:
 The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
@@ -35,7 +36,7 @@ Persona and Context Prompts:
 •	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
 •	The system should convey reliability and ease of use, with minimal training required for operators.
 
-### Conclusion
+# Conclusion
 The integration of AI-powered automation systems into the manufacturing industry, guided by strategic prompt patterns, demonstrates significant potential to revolutionize production efficiency, reduce downtime, and optimize energy consumption. By applying Unit 2 prompt types (Straightforward Prompts, Tabular Format Prompting, and Preceding Question Prompting) to the Unit 5 use case, the following outcomes were achieved:
 
 # 1. Achievement of Objectives
